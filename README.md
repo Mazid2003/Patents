@@ -1,12 +1,17 @@
-The Autonomous Target Striking Vehicle is an innovative system designed for precise and efficient target detection, 
-tracking, and engagement without human intervention. This vehicle integrates advanced technologies such as computer vision, 
-artificial intelligence, and real-time decision-making algorithms to autonomously identify and 
-neutralize designated targets.
+**🚀 Autonomous Target Striking Vehicle – Patent Documentation**
 
-The project successfully secured a patent, highlighting its novelty and technological significance. 
-The system employs sensors, cameras, and AI-based object recognition models to analyze the environment, 
-ensuring accuracy and adaptability in various scenarios. Potential applications include defense, security, 
-and industrial automation, where autonomous operations can enhance efficiency and safety.
+This repository contains the patent documentation for the Autonomous Target Striking Vehicle, an AI-powered unmanned system designed for precise target detection, tracking, and engagement without human intervention.
 
-With its cutting-edge approach and robust design, the Autonomous Target Striking Vehicle stands 
-as a testament to innovation in the field of AI-driven autonomous systems.
+**📜 About the Patent:**
+
+**Title:** Autonomous Target Striking Vehicle
+
+**Innovation:** Integrates computer vision, AI, and real-time decision-making for autonomous operations
+
+**Significance:** Enhances efficiency and safety in defense, security, and industrial automation
+
+**📂 Repository Contents:**
+
+Patent_Document.pdf – Official patent documentation detailing the technology, methodology, and applications
+
+This patent highlights the novelty and technological impact of our work, demonstrating its real-world potential in AI-driven autonomous systems.
