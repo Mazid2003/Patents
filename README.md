@@ -1,4 +1,4 @@
-**🚀 Autonomous Target Striking Vehicle – Patent Documentation**
+# 🚀 Autonomous Target Striking Vehicle – Patent Documentation
 
 This repository contains the patent documentation for the Autonomous Target Striking Vehicle, an AI-powered unmanned system designed for precise target detection, tracking, and engagement without human intervention.
 
